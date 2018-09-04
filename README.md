@@ -1,6 +1,6 @@
 # phan-docker
 
-An installation of PHP7 and [Phan][phan] in a tiny [Alpine Linux][alpine] Docker image.
+An installation of PHP7 and [Phan](https://github.com/phan/phan/) in a small Alpine Linux Docker image.
 
 This project is a simplified version of the complex build process used in [Cloudflare's docker-phan](https://github.com/cloudflare/docker-phan).
 
